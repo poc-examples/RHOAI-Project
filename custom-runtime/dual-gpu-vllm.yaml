@@ -34,3 +34,4 @@ spec:
   supportedModelFormats:
     - autoSelect: true
       name: vLLM
+ 
